@@ -1,6 +1,6 @@
 ## Pipocão Movies
 
-<img src="" alt="logo" style="zoom: 90%;" />
+<img src="https://github.com/jefferson-datascience/sistema_recomendacao_filmes/blob/main/Imagem/logo1.jpg" alt="logo" style="zoom: 90%;" />
 
 O objetivo desse projeto é realizar o estudo de Sistemas de Recomendações utilizando a técnica de Processamento de Texto + Cálculo de Distância de Vetores.
 
