@@ -53,6 +53,4 @@ Em um próximo ciclo desse projeto, será colocado como objetivo:
 - Introdução de novas feature como dados de cadastro do cliente, geolocalização e outras.
 - Teste A/B para validar a qualidade da recomendação.
 
-**NoteBook com os códigos e desenvolvimentos:** [Notebook Pipocão Movies](https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/project_insight_house_rocket.ipynb)
-
-**Dados Utilizados**: [Fonte de Dados Pipocão](https://github.com/jefferson-datascience/dashboard_house_rocket/blob/main/house_rocket_company_app.py)
+**NoteBook com os códigos e desenvolvimentos:** [Notebook Pipocão Movies](https://github.com/jefferson-datascience/sistema_recomendacao_filmes/blob/main/SistemaRecomendacaoCiclo01.ipynb)
